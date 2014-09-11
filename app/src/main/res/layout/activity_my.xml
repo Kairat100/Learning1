@@ -28,7 +28,7 @@
         android:layout_below="@id/btn_dialog2"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Click to display a detailed progress dialog"
+        android:text="Click to display a very detailed progress dialog"
         android:onClick="onClick3"
         />
 
